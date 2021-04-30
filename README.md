@@ -27,5 +27,6 @@ test : menjalankan unit test
 
 Contoh :
 > mvn compile
+
 Jika bersamaan, ketik
 > mvn clean,compile
