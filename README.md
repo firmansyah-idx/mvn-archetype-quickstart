@@ -17,12 +17,16 @@ Check maven di Command Prompt, untuk mengetahui apakah sudah terinstall atau bel
 Nanti ada pilihan Remote, pilih yang berasal dari org.apache.maven.archetypes
 
 GroupId : Biasa nya digunakan untuk nama Company
+
 ArtifactId : Biasa nya untuk nama project nya
 
 # Command Maven
 clean : Menghapus Folder Kompilasi
+
 compile : mengkompilasi source code 
+
 test-compile : untuk kompilasi source code test
+
 test : menjalankan unit test
 
 Contoh :
