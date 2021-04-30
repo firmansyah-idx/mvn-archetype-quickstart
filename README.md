@@ -11,6 +11,7 @@ Check maven di Command Prompt, untuk mengetahui apakah sudah terinstall atau bel
 
 # Untuk Create Project, ketik perintah di cmd : 
 > mvn archetype:generate
+
 > maven-archetype-quickstart
 
 Nanti ada pilihan Remote, pilih yang berasal dari org.apache.maven.archetypes
